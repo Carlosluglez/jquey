@@ -1,2 +1,2 @@
 # jquey
-practica jquery, eventos
+practica jquery, eventos.
